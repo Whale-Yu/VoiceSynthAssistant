@@ -9,9 +9,9 @@
 
 它为用户提供了一种简单而强大的方式来将文本转换为自然流畅的语音输出。
 ## 使用方法1：下载软件
-使用教程：
+[点我查看使用教程](https://www.bilibili.com/video/BV1di4y1e7aH)
 
-下载软件：https://github.com/CrabBoss-lab/VoiceSynthAssistant/releases/download/V23.12.09.1/main.dist.zip
+[点我下载软件（windows版本）](https://github.com/CrabBoss-lab/VoiceSynthAssistant/releases/download/V23.12.09.1/main.dist.zip)
 
 下载完成后，你可以通过以下步骤实现语音合成：
 
