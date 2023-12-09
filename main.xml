@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+  <class>MainWindow</class>
+  <widget class="QMainWindow" name="MainWindow">
+    <widget class="QWidget" name="centralwidget">
+      <widget class="QTextEdit" name="text_edit">
+        <property name="geometry">
+          <rect>
+            <x>40</x>
+            <y>40</y>
+            <width>720</width>
+            <height>200</height>
+          </rect>
+        </property>
+        <property name="placeholderText">
+          <string>请输入或粘贴需要合成的文本</string>
+        </property>
+      </widget>
+      <widget class="QLabel" name="name_label">
+        <property name="geometry">
+          <rect>
+            <x>40</x>
+            <y>280</y>
+            <width>80</width>
+            <height>30</height>
+          </rect>
+        </property>
+        <property name="text">
+          <string>支持声音列表:</string>
+        </property>
+      </widget>
+      <widget class="QComboBox" name="name_combo">
+        <property name="geometry">
+          <rect>
+            <x>140</x>
+            <y>280</y>
+            <width>600</width>
+            <height>30</height>
+          </rect>
+        </property>
+        <item>
+          <property name="text">
+            <string>01-女：zh-HK-HiuGaaiNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>02-女：zh-HK-HiuMaanNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>03-男：zh-HK-WanLungNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>04-女：zh-CN-XiaoxiaoNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>05-女：zh-CN-XiaoyiNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>06-男：zh-CN-YunjianNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>07-男：zh-CN-YunxiNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>08-男：zh-CN-YunxiaNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>09-男：zh-CN-YunyangNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>10-女：zh-CN-liaoning-XiaobeiNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>11-女：zh-TW-HsiaoChenNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>12-男：zh-TW-YunJheNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>13-女：zh-TW-HsiaoYuNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>14-女：h-CN-shaanxi-XiaoniNeural</string>
+          </property>
+        </item>
+      </widget>
+      <widget class="QLabel" name="rate_label">
+        <property name="geometry">
+          <rect>
+            <x>40</x>
+            <y>340</y>
+            <width>80</width>
+            <height>30</height>
+          </rect>
+        </property>
+        <property name="text">
+          <string>速度:</string>
+        </property>
+      </widget>
+      <widget class="QSpinBox" name="rate_spinbox">
+        <property name="geometry">
+          <rect>
+            <x>140</x>
+            <y>340</y>
+            <width>600</width>
+            <height>30</height>
+          </rect抱歉，您提供的原始代码不完整，缺少一些闭合标签。以下是一个修复过的版本：
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+  <class>MainWindow</class>
+  <widget class="QMainWindow" name="MainWindow">
+    <widget class="QWidget" name="centralwidget">
+      <widget class="QTextEdit" name="text_edit">
+        <property name="geometry">
+          <rect>
+            <x>40</x>
+            <y>40</y>
+            <width>720</width>
+            <height>200</height>
+          </rect>
+        </property>
+        <property name="placeholderText">
+          <string>请输入或粘贴需要合成的文本</string>
+        </property>
+      </widget>
+      <widget class="QLabel" name="name_label">
+        <property name="geometry">
+          <rect>
+            <x>40</x>
+            <y>280</y>
+            <width>80</width>
+            <height>30</height>
+          </rect>
+        </property>
+        <property name="text">
+          <string>支持声音列表:</string>
+        </property>
+      </widget>
+      <widget class="QComboBox" name="name_combo">
+        <property name="geometry">
+          <rect>
+            <x>140</x>
+            <y>280</y>
+            <width>600</width>
+            <height>30</height>
+          </rect>
+        </property>
+        <item>
+          <property name="text">
+            <string>01-女：zh-HK-HiuGaaiNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>02-女：zh-HK-HiuMaanNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>03-男：zh-HK-WanLungNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>04-女：zh-CN-XiaoxiaoNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>05-女：zh-CN-XiaoyiNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>06-男：zh-CN-YunjianNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>07-男：zh-CN-YunxiNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>08-男：zh-CN-YunxiaNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>09-男：zh-CN-YunyangNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>10-女：zh-CN-liaoning-XiaobeiNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>11-女：zh-TW-HsiaoChenNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>12-男：zh-TW-YunJheNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>13-女：zh-TW-HsiaoYuNeural</string>
+          </property>
+        </item>
+        <item>
+          <property name="text">
+            <string>14-女：h-CN-shaanxi-XiaoniNeural</string>
+          </property>
+        </item>
+      </widget>
+      <widget class="QLabel" name="rate_label">
+        <property name="geometry">
+          <rect>
+            <x>40</x>
+            <y>340</y>
+            <width>80</width>
+            <height>30</height>
+          </rect>
+        </property>
+        <property name="text">
+          <string>速度:</string>
+        </property>
+      </widget>
+      <widget class="QSpinBox" name="rate_spinbox">
+        <property name="geometry">
+          <rect>
+            <x>140</x>
+            <y>340</y>
+            <width>600
