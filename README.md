@@ -8,9 +8,8 @@
 通过语音合成助手，你可以轻松地将文本转换为语音，用于各种应用场景，如语音导航、语音提示、语音辅助等。
 
 它为用户提供了一种简单而强大的方式来将文本转换为自然流畅的语音输出。
-
 ## 使用方法1：下载软件
-下载软件：https://github.com/CrabBoss-lab/VoiceSynthAssistant/releases/download/V23.12.09/main.dist.zip
+下载软件：https://github.com/CrabBoss-lab/VoiceSynthAssistant/releases/download/V23.12.09.1/main.dist.zip
 
 下载完成后，你可以通过以下步骤实现语音合成：
 

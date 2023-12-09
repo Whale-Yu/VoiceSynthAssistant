@@ -1,1 +1,10 @@
-python -m nuitka --standalone --windows-disable-console --enable-plugin=pyside6  --include-package-data=qt_material --output-dir=out --windows-icon-from-ico=voice.png main.py
+1:python -m nuitka --standalone --windows-disable-console --enable-plugin=pyside6  --include-package-data=qt_material --output-dir=out --windows-icon-from-ico=voice.png main.py
+
+
+2:python -m nuitka --standalone  --enable-plugin=pyside6  --include-package-data=qt_material --output-dir=out --windows-icon-from-ico=voice.png main.py
+
+
+3:python -m nuitka --standalone --windows-disable-console --enable-plugin=pyside6  --include-package-data=qt_material,websockets --output-dir=out --windows-icon-from-ico=voice.png main.py
+
+
+python -m nuitka --standalone --windows-disable-console --enable-plugin=pyside6 --include-package=websockets  --include-package-data=qt_material --output-dir=out --windows-icon-from-ico=voice.png main.py

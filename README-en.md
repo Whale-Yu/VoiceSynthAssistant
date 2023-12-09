@@ -10,7 +10,7 @@ With Voice Synthesis Assistant, you can effortlessly convert text into speech fo
 It offers users a simple yet powerful way to convert text into natural and fluent speech output.
 
 ## Usage Method 1: Download the Software
-Download the software:https://github.com/CrabBoss-lab/VoiceSynthAssistant/releases/download/V23.12.09/main.dist.zip
+Download the software:https://github.com/CrabBoss-lab/VoiceSynthAssistant/releases/download/V23.12.09.1/main.dist.zip
 
 Once downloaded, you can follow these steps to perform speech synthesis:
 
