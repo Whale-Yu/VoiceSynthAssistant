@@ -1,6 +1,6 @@
 # Voice Synth Assistant
 
-[Chinese readme.md]()
+[Chinese readme.md](https://github.com/CrabBoss-lab/VoiceSynthAssistant)
 
 ## Introduction
 Voice Synthesis Assistant is an application based on TTS and PySide6, designed to convert text into speech. It utilizes speech synthesis technology to transform the input text into natural and fluent speech output. The assistant provides a user-friendly graphical interface that allows users to easily input text and select desired speech synthesis settings.

@@ -1,6 +1,6 @@
 # 语音合成助手
 
-[英文版 readme.md]()
+[英文版 readme.md](https://github.com/CrabBoss-lab/VoiceSynthAssistant/blob/master/README-en.md)
 
 ## 介绍
 语音合成助手（VoiceSynthAssistant）是一个基于tts和pyside6的应用程序，旨在将文本转换为语音。它利用语音合成技术，将输入的文本转化为自然流畅的语音输出。该助手提供了一个用户友好的图形界面，使用户能够轻松输入文本并选择所需的语音合成设置。
