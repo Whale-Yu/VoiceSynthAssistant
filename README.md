@@ -9,21 +9,21 @@
 
 它为用户提供了一种简单而强大的方式来将文本转换为自然流畅的语音输出。
 ## 使用方法1：下载软件
-[点我查看使用教程](https://www.bilibili.com/video/BV1di4y1e7aH)
+①[点我查看使用教程](https://www.bilibili.com/video/BV1di4y1e7aH)
 
-[点我下载软件（windows版本）](https://github.com/CrabBoss-lab/VoiceSynthAssistant/releases/download/V23.12.09.1/main.dist.zip)
+②[点我下载软件（windows版本）](https://github.com/CrabBoss-lab/VoiceSynthAssistant/releases/download/V23.12.09.1/main.dist.zip)
 
-下载完成后，你可以通过以下步骤实现语音合成：
+③下载完成后，你可以通过以下步骤实现语音合成：
 
-1、在文本编辑框中输入要转换为语音的文本。
+- 1、在文本编辑框中输入要转换为语音的文本。
 
-2、从可用的声音选择列表中选择所需的语音类型。
+- 2、从可用的声音选择列表中选择所需的语音类型。
 
-3、调整速度和语等参数，以获得所需的语音效果。
+- 3、调整速度和语等参数，以获得所需的语音效果。
 
-4、指定要保存的文件名和路径。
+- 4、指定要保存的文件名和路径。
 
-5、点击生成按钮开始语音合成过程。
+- 5、点击【开始生成语音】按钮开始语音合成过程。
 
 ## 使用方式2：本地部署
 ```yaml
